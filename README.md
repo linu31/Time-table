@@ -21,9 +21,9 @@ This project showcases a **modified version of the regular college timetable** w
 
 ---
 
-## 🖼️ Modified Timetable Image
+## 🖼️ Timetable Image
 
-![Modified Timetable](./43187967-29fd-41ce-a632-6a9e051f05ad.png)
+![Modified Timetable](images/table.jpg)
 
 ---
 
